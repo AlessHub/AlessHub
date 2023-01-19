@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-  <a href="[www.linkedin.com/in/alessandro-arroyo/](https://www.linkedin.com/in/alessandro-arroyo/)">
+  <a href="https://www.linkedin.com/in/alessandro-arroyo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
    <a href="mailto:aless312@gmail.com">
