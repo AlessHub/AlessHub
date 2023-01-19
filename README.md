@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Aless</h1>
 <h3 align="center">Just another person who loves programming, and the ability to turn our thoughts into a reality.</h3>
 
-- 🌱 I’m currently learning to become a Junior FullStack Developer<a href="https://factoriaf5.org">**at Factoria F5**</a>
+- 🌱 I’m currently learning to become a Junior FullStack Developer <a href="https://factoriaf5.org">**at Factoria F5**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p>
