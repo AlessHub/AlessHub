@@ -4,6 +4,7 @@
 - Just another person who loves programming, and the ability to turn our thoughts into a reality
 
 - 🌱 I’m currently learning to become a Junior FullStack Developer <a href="https://factoriaf5.org">**at Factoria F5**</a>
+- Feel free to contact me! Even if it's just for some small chat, any interaction is welcome :)
 
 
 <h3 align="left">Connect with me:</h3>
