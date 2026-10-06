@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- Hello! I'm Aless, a 29 year old dev from Spain.</h1>
+- Hello! I'm Aless, a 30 year old dev from Spain.</h1>
 - Just another person who loves programming, and the ability to turn our thoughts into a reality.
 - 🌱 Junior FullStack Developer
 - Feel free to contact me! Even if it's just for some small chat, any interaction is welcome :)
